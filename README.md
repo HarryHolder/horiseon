@@ -9,7 +9,10 @@ As well as changes to the code for accessibility, changes were also made to tidy
 N/A
 
 ## Usage 
-![Screenshot of working webpage](assets/images/screenshot.pdf)
+![Screenshot of working webpage](assets/images/screenshot.png)
+
+Link to working site;
+https://harryunderscore13.github.io/horiseon/
 
 ## Credits
 N/A
