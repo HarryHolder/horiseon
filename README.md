@@ -9,7 +9,7 @@ As well as changes to the code for accessibility, changes were also made to tidy
 N/A
 
 ## Usage 
-![Screenshot of working webpage](assets/images/screenshot.png)
+![Screenshot of working webpage](assets/images/screenshot.pdf)
 
 ## Credits
 N/A
